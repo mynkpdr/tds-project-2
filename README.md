@@ -31,10 +31,6 @@ Perfect for **business analysts, researchers, and data enthusiasts** who want **
 | 🎨 **Modern UI**            | Clean, responsive, and beginner-friendly           |
 | ⚡ **Real-Time Results**     | Progress tracking with fast computations           |
 
----
-## 👤 **Author & Credits**
-
-Developed with ❤️ by **[Gaurav Tomar](https://www.linkedin.com/in/gaurav-tomar-630b2a316)**
 
 ---
 ## 🚀 **Quick Start for more detail read `DEPLOYMENT_GUIDE.md` **
